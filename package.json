@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "@iam-app-publisher-8/pwa-test-12",
+  "name": "@web3validator-publisher/web3validator",
   "version": "0.1.26",
-  "repository": "https://github.com/LaconicNetwork/loro-testnet-example-pwa",
+  "repository": "https://github.com/web3validator/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
